@@ -121,7 +121,7 @@ body {
   position: absolute;
   left: 144px;
   top: 210px;
-  background: url(Danilo.jpg);
+  background: url= "Danilo.JPG";
   background-size: cover;
   background-position: center center;
   box-shadow: 5px 10px 20px rgba(100, 100, 100, 0.3);
